@@ -1,0 +1,6 @@
+{
+  "name": "MyFlixAI Financial Intelligence",
+  "description": "Actionable financial analytics, unit economics engine, next-day settlement simulator, and AI advisory suite for small marketplace businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
